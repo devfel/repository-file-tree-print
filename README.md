@@ -76,7 +76,7 @@ API GitHub configuration information is loaded from a `.env` file. You need to s
 
 ## 🔑 API GitHub Access Token
 
-- Creating your Token
+- **Creating your Token**
 - In your github click on your profile icon in the top right corner and go to Settings.
 - In the left sidebar, click on Developer settings.
 - Click on Personal access tokens.
@@ -84,7 +84,8 @@ API GitHub configuration information is loaded from a `.env` file. You need to s
 - Give your token a name and select the necessary scopes. For reading repository content, the repo scope should be enough.
 - Click Generate token.
 - Copy the token and store it safely.
-- ATTENTION: You won't be able to see it again.
+
+🚨 **Attention**: You won't be able to see it again.
 
 ## 📂 Directory Structure
 
