@@ -30,15 +30,15 @@ This script fetches the structure of a GitHub repository and generates an HTML v
 
 ## Table of Contents
 
-- [About](#about)
-- [Features](#features)
-- [Initial Setup](#initial-setup)
-- [How to Use](#how-to-use)
-- [Requirements](#requirements)
-- [API GitHub Access Token](#api-github-access-token)
-- [Directory Structure](#directory-structure)
-- [Contribution](#contribution)
-- [License](#license)
+- [About](#-about)
+- [Features](#-features)
+- [Initial Setup](#%EF%B8%8F-initial-setup)
+- [How to Use](#-how-to-use)
+- [Requirements](#-requirements)
+- [API GitHub Access Token](#-api-github-access-token)
+- [Directory Structure](#-directory-structure)
+- [Contribution](#-contribution)
+- [License](#-license)
 
 ## 📌 About
 
