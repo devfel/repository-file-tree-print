@@ -1,3 +1,5 @@
 tmp/*
 !tmp/.gitkeep
 .env
+repo_structure.docx
+repo_structure.html
